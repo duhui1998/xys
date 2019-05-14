@@ -31,7 +31,7 @@
 	margin-top: 100px;
 }
 .pc-ico .left{
-	width: 246px;
+	width: 200px;
 	float: left;
 }
 .pc-ico .left h2{
@@ -88,7 +88,7 @@
 }
 .pc-content .right{
 	float: left;
-	width: 1200px;
+	width: 1000px;
 	height: 225px;
 	background-color: rgba(0,0,0,.5);
 }
