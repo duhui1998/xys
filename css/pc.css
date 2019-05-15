@@ -50,7 +50,7 @@
 	float: left;
 	margin-right: 120px;
 	width: 230px;
-	height: 180px;
+	height: 150px;
 }
 .pc-ico .right p{
 	font-size: 12px;
@@ -88,7 +88,7 @@
 }
 .pc-content .right{
 	float: left;
-	width: 1000px;
+	width: 1400px;
 	height: 225px;
 	background-color: rgba(0,0,0,.5);
 }
@@ -156,7 +156,7 @@
 }
 .footer .ul>li .ul3{
 	position: absolute;
-	top:1820px;
+	top:2000px;
 	left:720px;
 
 }
